@@ -1,15 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To get this app up and running, please note the following:
 
-Things you may want to cover:
+* Ruby version: ruby 2.5.1p57 (2018-03-29 revision 63029)
 
-* Ruby version
+* System dependencies: i386-linux-gnu
 
-* System dependencies
-
-* Configuration
+* Configuration: 
 
 * Database creation
 
